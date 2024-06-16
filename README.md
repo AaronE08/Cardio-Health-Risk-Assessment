@@ -19,7 +19,7 @@
 - from sklearn.ensemble import RandomForestClassifier
 - from sklearn.metrics import accuracy_score
 
-**Dates**
+**Data**
 
 - Age: The patient’s age.
 - Sex: The patient’s gender.
